@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DCE Custom Footprints")(type "KiCad")(uri "${KIPRJMOD}/DCE Custom Footprints.pretty")(options "")(descr ""))
+)
